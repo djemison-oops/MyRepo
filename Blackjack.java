@@ -4,7 +4,7 @@ import java.lang.String;
 
 
 import java.util.Scanner;
-public class Blackjack {
+public class Blackjack { jhgfjhvjvjuhvy
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         P1Random rng = new P1Random();
